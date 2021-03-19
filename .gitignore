@@ -100,6 +100,12 @@ StyleCopReport.xml
 *.filters
 *.sln
 *.user
+*.pyproj
+
+# codeblock
+*.cbp
+*.depend
+*.layout
 
 # Chutzpah Test files
 _Chutzpah*
